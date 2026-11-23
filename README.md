@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository moved.** The radiocrestin.ro website now lives in [`web/` of radio-crestin/radiocrestin.ro](https://github.com/radio-crestin/radiocrestin.ro/tree/main/web), with its full history. This copy is archived and read-only.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped
 with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
